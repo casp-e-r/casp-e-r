@@ -4,7 +4,6 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 <br/>
 💻 I used to work at [TutorComp](https://tutorcomp.com/) as a software engineer, and currently looking for new opportunities 🤗.
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ASWIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswin-k-64627a217/)](https://www.linkedin.com/in/aswin-k-64627a217/)
