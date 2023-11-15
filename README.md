@@ -41,10 +41,6 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white)
 
-# 🚀 Learning:
-![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=#D04A37)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
 
 
 
